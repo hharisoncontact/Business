@@ -1,0 +1,3 @@
+ class NewsAgency {
+    Company company;
+        }
